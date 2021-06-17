@@ -33,7 +33,7 @@ Nas horas livres estudo conteudos voltados para Automação de Testes e Desenvol
 
 
 - 👩‍💻 Estou estudando linguagens de  com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
-- Trabalhando na *@kabum* como desenvolvedora Full Stack. 
+- Trabalhando na *IBM Brasil* como QA Test Analyst Consultant. 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
 - Estudar sobre Automação de Teste e Python; 
