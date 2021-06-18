@@ -39,12 +39,7 @@ Nas horas livres estudo conteudos voltados para Automação de Testes e Desenvol
 - Estudar sobre Automação de Teste e Python; 
 - 📝 Veja meu <a href="https://docs.google.com/document/d/1NujnCs3G1ZyQ8KmVwHvQH-ISh6rGm_5q/edit" target="_blank">Currículo</a> para mais informações.
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
+
 
 **Linguagens e ferramentas:**  
 
