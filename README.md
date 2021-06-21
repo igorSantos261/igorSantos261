@@ -53,7 +53,7 @@ Nas horas livres estudo conteudos voltados para Automação de Testes e Desenvol
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreen" alt="Hérika-Ströngreen" /> </p>
+
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
