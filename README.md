@@ -32,7 +32,7 @@ Nas horas livres estudo conteudos voltados para Automação de Testes e Desenvol
 **Meus interesses pessoais:**
 
 
-- 👩‍💻 Estou estudando linguagens de  com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
+- 👩‍💻 Estou estudando linguagens de programação como Python e JAVA;
 - Trabalhando na *IBM Brasil* como QA Test Analyst Consultant. 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
